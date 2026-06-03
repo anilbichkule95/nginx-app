@@ -6,3 +6,4 @@ data:
   index.html: |
     <h2>Hello from Argo CD GitOps</h2>
     <h2>I am deployed it through the ArgoCD</h2>
+    <h2>it does not accepts changes done in the template so, i have done the changes in lable section.</h2>

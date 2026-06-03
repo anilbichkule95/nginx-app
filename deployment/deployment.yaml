@@ -13,7 +13,7 @@ spec:
       labels:
         app: nginx
         version: v1
-        tag: v1
+        tag: v2
     spec:
       containers:
       - name: nginx
