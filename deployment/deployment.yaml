@@ -7,12 +7,13 @@ spec:
   selector:
     matchLabels:
       app: nginx
-      version: v2
+      version: v1
   template:
     metadata:
       labels:
         app: nginx
-        version: v2
+        version: v1
+        tag: v1
     spec:
       containers:
       - name: nginx
