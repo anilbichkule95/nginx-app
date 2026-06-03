@@ -9,8 +9,6 @@ spec:
       app: nginx
   template:
     metadata:
-      annotations:
-        configmap-checksum: "{{ checksum }}"
       labels:
         app: nginx
     spec:
