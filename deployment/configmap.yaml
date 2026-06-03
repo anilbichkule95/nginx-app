@@ -5,3 +5,4 @@ metadata:
 data:
   index.html: |
     <h2>Hello from Argo CD GitOps</h2>
+    <h2>I am deployed it through the ArgoCD</h2>
