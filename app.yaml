@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/anilbichkule95/nginx-app.git
     targetRevision: master
-    path: .
+    path: /deployment
 
   destination:
     server: https://kubernetes.default.svc
