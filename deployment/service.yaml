@@ -6,7 +6,7 @@ spec:
   selector:
     app: nginx
     version: v1
-    tag: v2
+    tag: v3
   ports:
     - port: 80
       targetPort: 80
