@@ -4,5 +4,6 @@ metadata:
   name: nginx-html
 data:
   index.html: |
-    <h1>Hello from Argo CD GitOps</h1>
-    <h1>Hello this is from the configmaps</h1>
+    <h2>Hello from Argo CD GitOps</h2>
+    <h2>Hello this is from the configmaps</h2>
+    <h2>Hello Wlcome to ArgoCD</h2>
