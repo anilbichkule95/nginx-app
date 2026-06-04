@@ -5,3 +5,4 @@ metadata:
 data:
   index.html: |
     <h3>Final deployment for the rainbow env.</h3>
+    <h3>New Line added!!!</h3>
